@@ -1,0 +1,25 @@
+[{
+    "Name":"Kims",
+    "Patient Count":"300",
+    "Location":"Akkulam"
+},{
+    "Name":"Credance",
+    "Patient Count":"400",
+    "Location":"Pattom"
+},{
+    "Name":"Cosmo",
+    "Patient Count":"275",
+    "Location":"Kumarapuram"
+},{
+    "Name":"Lords",
+    "Patient Count":"420",
+    "Location":"Chakkai"
+},{
+    "Name":"Mission Hospital",
+    "Patient Count":"500",
+    "Location":"Kazhakootam"
+},{
+    "Name":"Medical Collage",
+    "Patient Count":"890",
+    "Location":"Medical College"
+}]
